@@ -17,4 +17,8 @@ Brief, overall rundown:
 
 Aim is to meet _virtually_ and technically meet all of a user/business/enterprises' debugging needs.
 
-Note: Future debugging softwares that may come out or be released in the future within the realm of computer science, this program could technially incorperate such debbugers into its own functioning/program OR utitlize them in its workflow and/or operations. Truly staying with the times (and its standards) and adapting to the ever-evolving
+Note: Future debugging softwares that may come out or be released in the future within the realm of computer science, this program could technically incorporate such debuggers into its own functioning/program OR utilize them in its workflow and/or operations. Truly staying with the times (and its standards) and adapting to the ever-evolving frontiers of computer science. With each iteration, this program evolves alongside the dynamic nature of coding and programming, equipped to tackle the complexities of tomorrow. In embracing these advancements, this will not only optimize performance but also pave the way for a future where debugging becomes seamless and efficient. And even refined. 
+
+
+
+
